@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# PyInstaller
+build/
+dist/
+
+# Generated reports
+*.xlsx
+
+# Local config (copy of config.example.json)
+config.json

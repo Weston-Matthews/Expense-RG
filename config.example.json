@@ -1,0 +1,13 @@
+{
+  "_comment": "Copy this file to config.json and list your own locations/books. 'name' is shown in the picker; 'code' labels the sheet tabs and the summary rows (keep it short, no digits). Order = row order in the summary (max 12).",
+  "locations": [
+    {"name": "Site North", "code": "NORTH"},
+    {"name": "Site South", "code": "SOUTH"},
+    {"name": "Site East",  "code": "EAST"},
+    {"name": "Site West",  "code": "WEST"},
+    {"name": "Location A", "code": "LOC-A"},
+    {"name": "Location B", "code": "LOC-B"},
+    {"name": "Book A",     "code": "BOOK-A"},
+    {"name": "Book B",     "code": "BOOK-B"}
+  ]
+}
