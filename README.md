@@ -160,4 +160,4 @@ Every summary value is a live formula. For example, NORTH's row is `=AVERAGE(D4:
 
 ## License
 
-TBD
+MIT. See [LICENSE](LICENSE).
